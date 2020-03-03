@@ -1,3 +1,3 @@
-# warpcore-homeassistant
+# warpcore-time
 
-Home Assistat service for warpcorejs
+WarpcoreJS service that fires an event once per second
